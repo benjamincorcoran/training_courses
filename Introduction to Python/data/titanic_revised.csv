@@ -1,0 +1,939 @@
+name,age,boat,body,home.dest
+"Allen, Miss. Elisabeth Walton",29,2,,"St Louis, MO"
+"Allison, Master. Hudson Trevor",0.9167,11,,"Montreal, PQ / Chesterville, ON"
+"Allison, Miss. Helen Loraine",2,,,"Montreal, PQ / Chesterville, ON"
+"Allison, Mr. Hudson Joshua Creighton",30,,135,"Montreal, PQ / Chesterville, ON"
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25,,,"Montreal, PQ / Chesterville, ON"
+"Anderson, Mr. Harry",48,3,,"New York, NY"
+"Andrews, Miss. Kornelia Theodosia",63,10,,"Hudson, NY"
+"Andrews, Mr. Thomas Jr",39,,,"Belfast, NI"
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53,D,,"Bayside, Queens, NY"
+"Artagaveytia, Mr. Ramon",71,,22,"Montevideo, Uruguay"
+"Astor, Col. John Jacob",47,,124,"New York, NY"
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18,4,,"New York, NY"
+"Aubart, Mme. Leontine Pauline",24,9,,"Paris, France"
+"Barber, Miss. Ellen ""Nellie""",26,6,,
+"Barkworth, Mr. Algernon Henry Wilson",80,B,,"Hessle, Yorks"
+"Baumann, Mr. John D",,,,"New York, NY"
+"Baxter, Mr. Quigg Edmond",24,,,"Montreal, PQ"
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50,6,,"Montreal, PQ"
+"Bazzani, Miss. Albina",32,8,,
+"Beattie, Mr. Thomson",36,A,,"Winnipeg, MN"
+"Beckwith, Mr. Richard Leonard",37,5,,"New York, NY"
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47,5,,"New York, NY"
+"Behr, Mr. Karl Howell",26,5,,"New York, NY"
+"Bidois, Miss. Rosalie",42,4,,
+"Bird, Miss. Ellen",29,8,,
+"Birnbaum, Mr. Jakob",25,,148,"San Francisco, CA"
+"Bishop, Mr. Dickinson H",25,7,,"Dowagiac, MI"
+"Bishop, Mrs. Dickinson H (Helen Walton)",19,7,,"Dowagiac, MI"
+"Bissette, Miss. Amelia",35,8,,
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28,D,,"Stockholm, Sweden / Washington, DC"
+"Blackwell, Mr. Stephen Weart",45,,,"Trenton, NJ"
+"Blank, Mr. Henry",40,7,,"Glen Ridge, NJ"
+"Bonnell, Miss. Caroline",30,8,,"Youngstown, OH"
+"Bonnell, Miss. Elizabeth",58,8,,"Birkdale, England Cleveland, Ohio"
+"Borebank, Mr. John James",42,,,"London / Winnipeg, MB"
+"Bowen, Miss. Grace Scott",45,4,,"Cooperstown, NY"
+"Bowerman, Miss. Elsie Edith",22,6,,"St Leonards-on-Sea, England Ohio"
+"Bradley, Mr. George (""George Arthur Brayton"")",,9,,"Los Angeles, CA"
+"Brady, Mr. John Bertram",41,,,"Pomeroy, WA"
+"Brandeis, Mr. Emil",48,,208,"Omaha, NE"
+"Brewe, Dr. Arthur Jackson",,,,"Philadelphia, PA"
+"Brown, Mrs. James Joseph (Margaret Tobin)",44,6,,"Denver, CO"
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",59,D,,"Belmont, MA"
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",60,8,,"Philadelphia, PA"
+"Burns, Miss. Elizabeth Margaret",41,3,,
+"Butt, Major. Archibald Willingham",45,,,"Washington, DC"
+"Calderhead, Mr. Edward Pennington",42,5,,"New York, NY"
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",53,6,,"Washington, DC"
+"Cardeza, Mr. Thomas Drake Martinez",36,3,,"Austria-Hungary / Germantown, Philadelphia, PA"
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",58,3,,"Germantown, Philadelphia, PA"
+"Carlsson, Mr. Frans Olof",33,,,"New York, NY"
+"Carrau, Mr. Francisco M",28,,,"Montevideo, Uruguay"
+"Carrau, Mr. Jose Pedro",17,,,"Montevideo, Uruguay"
+"Carter, Master. William Thornton II",11,4,,"Bryn Mawr, PA"
+"Carter, Miss. Lucile Polk",14,4,,"Bryn Mawr, PA"
+"Carter, Mr. William Ernest",36,C,,"Bryn Mawr, PA"
+"Carter, Mrs. William Ernest (Lucile Polk)",36,4,,"Bryn Mawr, PA"
+"Case, Mr. Howard Brown",49,,,"Ascot, Berkshire / Rochester, NY"
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",,5,,"New York, NY"
+"Cavendish, Mr. Tyrell William",36,,172,"Little Onn Hall, Staffs"
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",76,6,,"Little Onn Hall, Staffs"
+"Chaffee, Mr. Herbert Fuller",46,,,"Amenia, ND"
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",47,4,,"Amenia, ND"
+"Chambers, Mr. Norman Campbell",27,5,,"New York, NY / Ithaca, NY"
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33,5,,"New York, NY / Ithaca, NY"
+"Chaudanson, Miss. Victorine",36,4,,
+"Cherry, Miss. Gladys",30,8,,"London, England"
+"Chevre, Mr. Paul Romaine",45,7,,"Paris, France"
+"Chibnall, Mrs. (Edith Martha Bowerman)",,6,,"St Leonards-on-Sea, England Ohio"
+"Chisholm, Mr. Roderick Robert Crispin",,,,"Liverpool, England / Belfast"
+"Clark, Mr. Walter Miller",27,,,"Los Angeles, CA"
+"Clark, Mrs. Walter Miller (Virginia McDowell)",26,4,,"Los Angeles, CA"
+"Cleaver, Miss. Alice",22,11,,
+"Clifford, Mr. George Quincy",,,,"Stoughton, MA"
+"Colley, Mr. Edward Pomeroy",47,,,"Victoria, BC"
+"Compton, Miss. Sara Rebecca",39,14,,"Lakewood, NJ"
+"Compton, Mr. Alexander Taylor Jr",37,,,"Lakewood, NJ"
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",64,14,,"Lakewood, NJ"
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",55,2,,"New York, NY"
+"Crafton, Mr. John Bertram",,,,"Roachdale, IN"
+"Crosby, Capt. Edward Gifford",70,,269,"Milwaukee, WI"
+"Crosby, Miss. Harriet R",36,7,,"Milwaukee, WI"
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",64,7,,"Milwaukee, WI"
+"Cumings, Mr. John Bradley",39,,,"New York, NY"
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38,4,,"New York, NY"
+"Daly, Mr. Peter Denis ",51,5 9,,"Lima, Peru"
+"Daniel, Mr. Robert Williams",27,3,,"Philadelphia, PA"
+"Daniels, Miss. Sarah",33,8,,
+"Davidson, Mr. Thornton",31,,,"Montreal, PQ"
+"Davidson, Mrs. Thornton (Orian Hays)",27,3,,"Montreal, PQ"
+"Dick, Mr. Albert Adrian",31,3,,"Calgary, AB"
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",17,3,,"Calgary, AB"
+"Dodge, Dr. Washington",53,13,,"San Francisco, CA"
+"Dodge, Master. Washington",4,5,,"San Francisco, CA"
+"Dodge, Mrs. Washington (Ruth Vidaver)",54,5,,"San Francisco, CA"
+"Douglas, Mr. Walter Donald",50,,62,"Deephaven, MN / Cedar Rapids, IA"
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",27,6,,"Montreal, PQ"
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",48,2,,"Deephaven, MN / Cedar Rapids, IA"
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48,1,,London / Paris
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49,1,,London / Paris
+"Dulles, Mr. William Crothers",39,,133,"Philadelphia, PA"
+"Earnshaw, Mrs. Boulton (Olive Potter)",23,7,,"Mt Airy, Philadelphia, PA"
+"Endres, Miss. Caroline Louise",38,4,,"New York, NY"
+"Eustis, Miss. Elizabeth Mussey",54,4,,"Brookline, MA"
+"Evans, Miss. Edith Corse",36,,,"New York, NY"
+"Flegenheim, Mrs. Alfred (Antoinette)",,7,,"New York, NY"
+"Fleming, Miss. Margaret",,4,,
+"Flynn, Mr. John Irwin (""Irving"")",36,5,,"Brooklyn, NY"
+"Foreman, Mr. Benjamin Laventall",30,,,"New York, NY"
+"Fortune, Miss. Alice Elizabeth",24,10,,"Winnipeg, MB"
+"Fortune, Miss. Ethel Flora",28,10,,"Winnipeg, MB"
+"Fortune, Miss. Mabel Helen",23,10,,"Winnipeg, MB"
+"Fortune, Mr. Charles Alexander",19,,,"Winnipeg, MB"
+"Fortune, Mr. Mark",64,,,"Winnipeg, MB"
+"Fortune, Mrs. Mark (Mary McDougald)",60,10,,"Winnipeg, MB"
+"Francatelli, Miss. Laura Mabel",30,1,,
+"Franklin, Mr. Thomas Parham",,,,"Westcliff-on-Sea, Essex"
+"Frauenthal, Dr. Henry William",50,5,,"New York, NY"
+"Frauenthal, Mr. Isaac Gerald",43,5,,"New York, NY"
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,5,,"New York, NY"
+"Frolicher, Miss. Hedwig Margaritha",22,5,,"Zurich, Switzerland"
+"Frolicher-Stehli, Mr. Maxmillian",60,5,,"Zurich, Switzerland"
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",48,5,,"Zurich, Switzerland"
+"Futrelle, Mr. Jacques Heath",37,,,"Scituate, MA"
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35,D,,"Scituate, MA"
+"Gee, Mr. Arthur H",47,,275,"St Anne's-on-Sea, Lancashire"
+"Geiger, Miss. Amalie",35,4,,
+"Gibson, Miss. Dorothy Winifred",22,7,,"New York, NY"
+"Gibson, Mrs. Leonard (Pauline C Boeson)",45,7,,"New York, NY"
+"Goldenberg, Mr. Samuel L",49,5,,"Paris, France / New York, NY"
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,5,,"Paris, France / New York, NY"
+"Goldschmidt, Mr. George B",71,,,"New York, NY"
+"Gracie, Col. Archibald IV",53,B,,"Washington, DC"
+"Graham, Miss. Margaret Edith",19,3,,"Greenwich, CT"
+"Graham, Mr. George Edward",38,,147,"Winnipeg, MB"
+"Graham, Mrs. William Thompson (Edith Junkins)",58,3,,"Greenwich, CT"
+"Greenfield, Mr. William Bertram",23,7,,"New York, NY"
+"Greenfield, Mrs. Leo David (Blanche Strouse)",45,7,,"New York, NY"
+"Guggenheim, Mr. Benjamin",46,,,"New York, NY"
+"Harder, Mr. George Achilles",25,5,,"Brooklyn, NY"
+"Harder, Mrs. George Achilles (Dorothy Annan)",25,5,,"Brooklyn, NY"
+"Harper, Mr. Henry Sleeper",48,3,,"New York, NY"
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49,3,,"New York, NY"
+"Harris, Mr. Henry Birkhardt",45,,,"New York, NY"
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35,D,,"New York, NY"
+"Harrison, Mr. William",40,,110,
+"Hassab, Mr. Hammad",27,3,,
+"Hawksford, Mr. Walter James",,3,,"Kingston, Surrey"
+"Hays, Miss. Margaret Bechstein",24,7,,"New York, NY"
+"Hays, Mr. Charles Melville",55,,307,"Montreal, PQ"
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52,3,,"Montreal, PQ"
+"Head, Mr. Christopher",42,,,London / Middlesex
+"Hilliard, Mr. Herbert Henry",,,,"Brighton, MA"
+"Hipkins, Mr. William Edward",55,,,London / Birmingham
+"Hippach, Miss. Jean Gertrude",16,4,,"Chicago, IL"
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44,4,,"Chicago, IL"
+"Hogeboom, Mrs. John C (Anna Andrews)",51,10,,"Hudson, NY"
+"Holverson, Mr. Alexander Oskar",42,,38,"New York, NY"
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35,8,,"New York, NY"
+"Homer, Mr. Harry (""Mr E Haven"")",35,15,,"Indianapolis, IN"
+"Hoyt, Mr. Frederick Maxfield",38,D,,"New York, NY /  Stamford CT"
+"Hoyt, Mr. William Fisher",,14,,"New York, NY"
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35,D,,"New York, NY /  Stamford CT"
+"Icard, Miss. Amelie",38,6,,
+"Isham, Miss. Ann Elizabeth",50,,,"Paris, France New York, NY"
+"Ismay, Mr. Joseph Bruce",49,C,,Liverpool
+"Jones, Mr. Charles Cresson",46,,80,"Bennington, VT"
+"Julian, Mr. Henry Forbes",50,,,London
+"Keeping, Mr. Edwin",32.5,,45,
+"Kent, Mr. Edward Austin",58,,258,"Buffalo, NY"
+"Kenyon, Mr. Frederick R",41,,,"Southington / Noank, CT"
+"Kenyon, Mrs. Frederick R (Marion)",,8,,"Southington / Noank, CT"
+"Kimball, Mr. Edwin Nelson Jr",42,5,,"Boston, MA"
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",45,5,,"Boston, MA"
+"Klaber, Mr. Herman",,,,"Portland, OR"
+"Kreuchen, Miss. Emilie",39,2,,
+"Leader, Dr. Alice (Farnham)",49,8,,"New York, NY"
+"LeRoy, Miss. Bertha",30,2,,
+"Lesurer, Mr. Gustave J",35,3,,
+"Lewy, Mr. Ervin G",,,,"Chicago, IL"
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",42,,,"Stockholm, Sweden"
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",55,6,,"Stockholm, Sweden"
+"Lines, Miss. Mary Conover",16,9,,"Paris, France"
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",51,9,,"Paris, France"
+"Long, Mr. Milton Clyde",29,,126,"Springfield, MA"
+"Longley, Miss. Gretchen Fiske",21,10,,"Hudson, NY"
+"Loring, Mr. Joseph Holland",30,,,"London / New York, NY"
+"Madill, Miss. Georgette Alexandra",15,2,,"St Louis, MO"
+"Maguire, Mr. John Edward",30,,,"Brockton, MA"
+"Maioni, Miss. Roberta",16,8,,
+"Marechal, Mr. Pierre",,7,,"Paris, France"
+"Marvin, Mr. Daniel Warner",19,,,"New York, NY"
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",18,10,,"New York, NY"
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24,6,,"Belgium  Montreal, PQ"
+"McCaffry, Mr. Thomas Francis",46,,292,"Vancouver, BC"
+"McCarthy, Mr. Timothy J",54,,175,"Dorchester, MA"
+"McGough, Mr. James Robert",36,7,,"Philadelphia, PA"
+"Meyer, Mr. Edgar Joseph",28,,,"New York, NY"
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",,6,,"New York, NY"
+"Millet, Mr. Francis Davis",65,,249,"East Bridgewater, MA"
+"Minahan, Dr. William Edward",44,,230,"Fond du Lac, WI"
+"Minahan, Miss. Daisy E",33,14,,"Green Bay, WI"
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",37,14,,"Fond du Lac, WI"
+"Mock, Mr. Philipp Edmund",30,11,,"New York, NY"
+"Molson, Mr. Harry Markland",55,,,"Montreal, PQ"
+"Moore, Mr. Clarence Bloomfield",47,,,"Washington, DC"
+"Natsch, Mr. Charles H",37,,,"Brooklyn, NY"
+"Newell, Miss. Madeleine",31,6,,"Lexington, MA"
+"Newell, Miss. Marjorie",23,6,,"Lexington, MA"
+"Newell, Mr. Arthur Webster",58,,122,"Lexington, MA"
+"Newsom, Miss. Helen Monypeny",19,5,,"New York, NY"
+"Nicholson, Mr. Arthur Ernest",64,,263,"Isle of Wight, England"
+"Oliva y Ocana, Dona. Fermina",39,8,,
+"Omont, Mr. Alfred Fernand",,7,,"Paris, France"
+"Ostby, Miss. Helene Ragnhild",22,5,,"Providence, RI"
+"Ostby, Mr. Engelhart Cornelius",65,,234,"Providence, RI"
+"Ovies y Rodriguez, Mr. Servando",28.5,,189,"?Havana, Cuba"
+"Parr, Mr. William Henry Marsh",,,,Belfast
+"Partner, Mr. Austen",45.5,,166,"Surbiton Hill, Surrey"
+"Payne, Mr. Vivian Ponsonby",23,,,"Montreal, PQ"
+"Pears, Mr. Thomas Clinton",29,,,"Isleworth, England"
+"Pears, Mrs. Thomas (Edith Wearne)",22,8,,"Isleworth, England"
+"Penasco y Castellana, Mr. Victor de Satode",18,,,"Madrid, Spain"
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17,8,,"Madrid, Spain"
+"Perreault, Miss. Anne",30,3,,
+"Peuchen, Major. Arthur Godfrey",52,6,,"Toronto, ON"
+"Porter, Mr. Walter Chamberlain",47,,207,"Worcester, MA"
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56,7,,"Mt Airy, Philadelphia, PA"
+"Reuchlin, Jonkheer. John George",38,,,"Rotterdam, Netherlands"
+"Rheims, Mr. George Alexander Lucien",,A,,"Paris /  New York, NY"
+"Ringhini, Mr. Sante",22,,232,
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43,2,,"St Louis, MO"
+"Roebling, Mr. Washington Augustus II",31,,,"Trenton, NJ"
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45,9,,"New York, NY"
+"Rood, Mr. Hugh Roscoe",,,,"Seattle, WA"
+"Rosenbaum, Miss. Edith Louise",33,11,,"Paris, France"
+"Rosenshine, Mr. George (""Mr George Thorne"")",46,,16,"New York, NY"
+"Ross, Mr. John Hugo",36,,,"Winnipeg, MB"
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33,8,,"London  Vancouver, BC"
+"Rothschild, Mr. Martin",55,,,"New York, NY"
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54,6,,"New York, NY"
+"Rowe, Mr. Alfred G",33,,109,London
+"Ryerson, Master. John Borie",13,4,,"Haverford, PA / Cooperstown, NY"
+"Ryerson, Miss. Emily Borie",18,4,,"Haverford, PA / Cooperstown, NY"
+"Ryerson, Miss. Susan Parker ""Suzette""",21,4,,"Haverford, PA / Cooperstown, NY"
+"Ryerson, Mr. Arthur Larned",61,,,"Haverford, PA / Cooperstown, NY"
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",48,4,,"Haverford, PA / Cooperstown, NY"
+"Saalfeld, Mr. Adolphe",,3,,"Manchester, England"
+"Sagesser, Mlle. Emma",24,9,,
+"Salomon, Mr. Abraham L",,1,,"New York, NY"
+"Schabert, Mrs. Paul (Emma Mock)",35,11,,"New York, NY"
+"Serepeca, Miss. Augusta",30,4,,
+"Seward, Mr. Frederic Kimber",34,7,,"New York, NY"
+"Shutes, Miss. Elizabeth W",40,3,,"New York, NY / Greenwich CT"
+"Silverthorne, Mr. Spencer Victor",35,5,,"St Louis, MO"
+"Silvey, Mr. William Baird",50,,,"Duluth, MN"
+"Silvey, Mrs. William Baird (Alice Munger)",39,11,,"Duluth, MN"
+"Simonius-Blumer, Col. Oberst Alfons",56,3,,"Basel, Switzerland"
+"Sloper, Mr. William Thompson",28,7,,"New Britain, CT"
+"Smart, Mr. John Montgomery",56,,,"New York, NY"
+"Smith, Mr. James Clinch",56,,,"St James, Long Island, NY"
+"Smith, Mr. Lucien Philip",24,,,"Huntington, WV"
+"Smith, Mr. Richard William",,,,"Streatham, Surrey"
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",18,6,,"Huntington, WV"
+"Snyder, Mr. John Pillsbury",24,7,,"Minneapolis, MN"
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",23,7,,"Minneapolis, MN"
+"Spedden, Master. Robert Douglas",6,3,,"Tuxedo Park, NY"
+"Spedden, Mr. Frederic Oakley",45,3,,"Tuxedo Park, NY"
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40,3,,"Tuxedo Park, NY"
+"Spencer, Mr. William Augustus",57,,,"Paris, France"
+"Spencer, Mrs. William Augustus (Marie Eugenie)",,6,,"Paris, France"
+"Stahelin-Maeglin, Dr. Max",32,3,,"Basel, Switzerland"
+"Stead, Mr. William Thomas",62,,,"Wimbledon Park, London / Hayling Island, Hants"
+"Stengel, Mr. Charles Emil Henry",54,1,,"Newark, NJ"
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",43,5,,"Newark, NJ"
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52,4,,"Haverford, PA"
+"Stewart, Mr. Albert A",,,,"Gallipolis, Ohio / ? Paris / New York"
+"Stone, Mrs. George Nelson (Martha Evelyn)",62,6,,"Cincinatti, OH"
+"Straus, Mr. Isidor",67,,96,"New York, NY"
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",63,,,"New York, NY"
+"Sutton, Mr. Frederick",61,,46,"Haddenfield, NJ"
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48,8,,"Brooklyn, NY"
+"Taussig, Miss. Ruth",18,8,,"New York, NY"
+"Taussig, Mr. Emil",52,,,"New York, NY"
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",39,8,,"New York, NY"
+"Taylor, Mr. Elmer Zebley",48,5 7,,"London /  East Orange, NJ"
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,5 7,,"London /  East Orange, NJ"
+"Thayer, Mr. John Borland",49,,,"Haverford, PA"
+"Thayer, Mr. John Borland Jr",17,B,,"Haverford, PA"
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39,4,,"Haverford, PA"
+"Thorne, Mrs. Gertrude Maybelle",,D,,"New York, NY"
+"Tucker, Mr. Gilbert Milligan Jr",31,7,,"Albany, NY"
+"Uruchurtu, Don. Manuel E",40,,,"Mexico City, Mexico"
+"Van der hoef, Mr. Wyckoff",61,,245,"Brooklyn, NY"
+"Walker, Mr. William Anderson",47,,,"East Orange, NJ"
+"Ward, Miss. Anna",35,3,,
+"Warren, Mr. Frank Manley",64,,,"Portland, OR"
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60,5,,"Portland, OR"
+"Weir, Col. John",60,,,"England Salt Lake City, Utah"
+"White, Mr. Percival Wayland",54,,,"Brunswick, ME"
+"White, Mr. Richard Frasar",21,,169,"Brunswick, ME"
+"White, Mrs. John Stuart (Ella Holmes)",55,8,,"New York, NY / Briarcliff Manor NY"
+"Wick, Miss. Mary Natalie",31,8,,"Youngstown, OH"
+"Wick, Mr. George Dennick",57,,,"Youngstown, OH"
+"Wick, Mrs. George Dennick (Mary Hitchcock)",45,8,,"Youngstown, OH"
+"Widener, Mr. George Dunton",50,,,"Elkins Park, PA"
+"Widener, Mr. Harry Elkins",27,,,"Elkins Park, PA"
+"Widener, Mrs. George Dunton (Eleanor Elkins)",50,4,,"Elkins Park, PA"
+"Willard, Miss. Constance",21,8 10,,"Duluth, MN"
+"Williams, Mr. Charles Duane",51,,,"Geneva, Switzerland / Radnor, PA"
+"Williams, Mr. Richard Norris II",21,A,,"Geneva, Switzerland / Radnor, PA"
+"Williams-Lambert, Mr. Fletcher Fellows",,,,"London, England"
+"Wilson, Miss. Helen Alice",31,3,,
+"Woolner, Mr. Hugh",,D,,"London, England"
+"Wright, Mr. George",62,,,"Halifax, NS"
+"Young, Miss. Marie Grice",36,8,,"New York, NY / Washington, DC"
+"Abelson, Mr. Samuel",30,,,"Russia New York, NY"
+"Abelson, Mrs. Samuel (Hannah Wizosky)",28,10,,"Russia New York, NY"
+"Aldworth, Mr. Charles Augustus",30,,,"Bryn Mawr, PA, USA"
+"Andrew, Mr. Edgardo Samuel",18,,,"Buenos Aires, Argentina / New Jersey, NJ"
+"Andrew, Mr. Frank Thomas",25,,,"Cornwall, England Houghton, MI"
+"Angle, Mr. William A",34,,,"Warwick, England"
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36,11,,"Warwick, England"
+"Ashby, Mr. John",57,,,"West Hoboken, NJ"
+"Bailey, Mr. Percy Andrew",18,,,"Penzance, Cornwall / Akron, OH"
+"Baimbrigge, Mr. Charles Robert",23,,,Guernsey
+"Ball, Mrs. (Ada E Hall)",36,10,,"Bristol, Avon / Jacksonville, FL"
+"Banfield, Mr. Frederick James",28,,,"Plymouth, Dorset / Houghton, MI"
+"Bateman, Rev. Robert James",51,,174,"Jacksonville, FL"
+"Beane, Mr. Edward",32,13,,"Norwich / New York, NY"
+"Beane, Mrs. Edward (Ethel Clarke)",19,13,,"Norwich / New York, NY"
+"Beauchamp, Mr. Henry James",28,,,England
+"Becker, Master. Richard F",1,11,,"Guntur, India / Benton Harbour, MI"
+"Becker, Miss. Marion Louise",4,11,,"Guntur, India / Benton Harbour, MI"
+"Becker, Miss. Ruth Elizabeth",12,13,,"Guntur, India / Benton Harbour, MI"
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",36,11,,"Guntur, India / Benton Harbour, MI"
+"Beesley, Mr. Lawrence",34,13,,London
+"Bentham, Miss. Lilian W",19,12,,"Rochester, NY"
+"Berriman, Mr. William John",23,,,"St Ives, Cornwall / Calumet, MI"
+"Botsford, Mr. William Hull",26,,,"Elmira, NY / Orange, NJ"
+"Bowenur, Mr. Solomon",42,,,London
+"Bracken, Mr. James H",27,,,"Lake Arthur, Chavez County, NM"
+"Brown, Miss. Amelia ""Mildred""",24,11,,"London / Montreal, PQ"
+"Brown, Miss. Edith Eileen",15,14,,"Cape Town, South Africa / Seattle, WA"
+"Brown, Mr. Thomas William Solomon",60,,,"Cape Town, South Africa / Seattle, WA"
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40,14,,"Cape Town, South Africa / Seattle, WA"
+"Bryhl, Miss. Dagmar Jenny Ingeborg ",20,12,,"Skara, Sweden / Rockford, IL"
+"Bryhl, Mr. Kurt Arnold Gottfrid",25,,,"Skara, Sweden / Rockford, IL"
+"Buss, Miss. Kate",36,9,,"Sittingbourne, England / San Diego, CA"
+"Butler, Mr. Reginald Fenton",25,,97,"Southsea, Hants"
+"Byles, Rev. Thomas Roussel Davids",42,,,London
+"Bystrom, Mrs. (Karolina)",42,,,"New York, NY"
+"Caldwell, Master. Alden Gates",0.8333,13,,"Bangkok, Thailand / Roseville, IL"
+"Caldwell, Mr. Albert Francis",26,13,,"Bangkok, Thailand / Roseville, IL"
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22,13,,"Bangkok, Thailand / Roseville, IL"
+"Cameron, Miss. Clear Annie",35,14,,"Mamaroneck, NY"
+"Campbell, Mr. William",,,,Belfast
+"Carbines, Mr. William",19,,18,"St Ives, Cornwall / Calumet, MI"
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44,,,London
+"Carter, Rev. Ernest Courtenay",54,,,London
+"Chapman, Mr. Charles Henry",52,,130,"Bronx, NY"
+"Chapman, Mr. John Henry",37,,17,"Cornwall / Spokane, WA"
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",29,,,"Cornwall / Spokane, WA"
+"Christy, Miss. Julie Rachel",25,12,,London
+"Christy, Mrs. (Alice Frances)",45,12,,London
+"Clarke, Mr. Charles Valentine",29,,,"England / San Francisco, CA"
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",28,14,,"England / San Francisco, CA"
+"Coleridge, Mr. Reginald Charles",29,,,"Hartford, Huntingdonshire"
+"Collander, Mr. Erik Gustaf",28,,,"Helsinki, Finland Ashtabula, Ohio"
+"Collett, Mr. Sidney C Stuart",24,9,,"London / Fort Byron, NY"
+"Collyer, Miss. Marjorie ""Lottie""",8,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+"Collyer, Mr. Harvey",31,,,"Bishopstoke, Hants / Fayette Valley, ID"
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+"Cook, Mrs. (Selena Rogers)",22,14,,Pennsylvania
+"Corbett, Mrs. Walter H (Irene Colvin)",30,,,"Provo, UT"
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",,,,"Upper Burma, India Pittsburgh, PA"
+"Cotterill, Mr. Henry ""Harry""",21,,,"Penzance, Cornwall / Akron, OH"
+"Cunningham, Mr. Alfred Fleming",,,,Belfast
+"Davies, Master. John Morgan Jr",8,14,,"St Ives, Cornwall / Hancock, MI"
+"Davies, Mr. Charles Henry",18,,,"Lyndhurst, England"
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",48,14,,"St Ives, Cornwall / Hancock, MI"
+"Davis, Miss. Mary",28,13,,"London / Staten Island, NY"
+"de Brito, Mr. Jose Joaquim",32,,,"Portugal / Sau Paulo, Brazil"
+"del Carlo, Mr. Sebastiano",29,,295,"Lucca, Italy / California"
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",24,12,,"Lucca, Italy / California"
+"Denbury, Mr. Herbert",25,,,"Guernsey / Elizabeth, NJ"
+"Dibden, Mr. William",18,,,"New Forest, England"
+"Doling, Miss. Elsie",18,,,Southampton
+"Doling, Mrs. John T (Ada Julia Bone)",34,,,Southampton
+"Downton, Mr. William James",54,,,"Holley, NY"
+"Drew, Master. Marshall Brines",8,10,,"Greenport, NY"
+"Drew, Mr. James Vivian",42,,,"Greenport, NY"
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34,10,,"Greenport, NY"
+"Duran y More, Miss. Asuncion",27,12,,"Barcelona, Spain / Havana, Cuba"
+"Duran y More, Miss. Florentina",30,12,,"Barcelona, Spain / Havana, Cuba"
+"Eitemiller, Mr. George Floyd",23,,,"England / Detroit, MI"
+"Enander, Mr. Ingvar",21,,,"Goteborg, Sweden / Rockford, IL"
+"Fahlstrom, Mr. Arne Jonas",18,,,"Oslo, Norway Bayonne, NJ"
+"Faunthorpe, Mr. Harry",40,,286,"England / Philadelphia, PA"
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29,16,,
+"Fillbrook, Mr. Joseph Charles",18,,,"Cornwall / Houghton, MI"
+"Fox, Mr. Stanley Hubert",36,,236,"Rochester, NY"
+"Frost, Mr. Anthony Wood ""Archie""",,,,Belfast
+"Funk, Miss. Annie Clemmer",38,,,"Janjgir, India / Pennsylvania"
+"Fynney, Mr. Joseph J",35,,322,"Liverpool / Montreal, PQ"
+"Gale, Mr. Harry",38,,,"Cornwall / Clear Creek, CO"
+"Gale, Mr. Shadrach",34,,,"Cornwall / Clear Creek, CO"
+"Garside, Miss. Ethel",34,12,,"Brooklyn, NY"
+"Gaskell, Mr. Alfred",16,,,"Liverpool / Montreal, PQ"
+"Gavey, Mr. Lawrence",26,,,"Guernsey / Elizabeth, NJ"
+"Gilbert, Mr. William",47,,,Cornwall
+"Giles, Mr. Edgar",21,,,"Cornwall / Camden, NJ"
+"Giles, Mr. Frederick Edward",21,,,"Cornwall / Camden, NJ"
+"Giles, Mr. Ralph",24,,297,"West Kensington, London"
+"Gill, Mr. John William",24,,155,"Clevedon, England"
+"Gillespie, Mr. William Henry",34,,,"Vancouver, BC"
+"Givard, Mr. Hans Kristensen",30,,305,
+"Greenberg, Mr. Samuel",52,,19,"Bronx, NY"
+"Hale, Mr. Reginald",30,,75,"Auburn, NY"
+"Hamalainen, Master. Viljo",0.6667,4,,"Detroit, MI"
+"Hamalainen, Mrs. William (Anna)",24,4,,"Detroit, MI"
+"Harbeck, Mr. William H",44,,35,"Seattle, WA / Toledo, OH"
+"Harper, Miss. Annie Jessie ""Nina""",6,11,,"Denmark Hill, Surrey / Chicago"
+"Harper, Rev. John",28,,,"Denmark Hill, Surrey / Chicago"
+"Harris, Mr. George",62,15,,London
+"Harris, Mr. Walter",30,,,"Walthamstow, England"
+"Hart, Miss. Eva Miriam",7,14,,"Ilford, Essex / Winnipeg, MB"
+"Hart, Mr. Benjamin",43,,,"Ilford, Essex / Winnipeg, MB"
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45,14,,"Ilford, Essex / Winnipeg, MB"
+"Herman, Miss. Alice",24,9,,"Somerset / Bernardsville, NJ"
+"Herman, Miss. Kate",24,9,,"Somerset / Bernardsville, NJ"
+"Herman, Mr. Samuel",49,,,"Somerset / Bernardsville, NJ"
+"Herman, Mrs. Samuel (Jane Laver)",48,9,,"Somerset / Bernardsville, NJ"
+"Hewlett, Mrs. (Mary D Kingcome) ",55,13,,"India / Rapid City, SD"
+"Hickman, Mr. Leonard Mark",24,,,"West Hampstead, London / Neepawa, MB"
+"Hickman, Mr. Lewis",32,,256,"West Hampstead, London / Neepawa, MB"
+"Hickman, Mr. Stanley George",21,,,"West Hampstead, London / Neepawa, MB"
+"Hiltunen, Miss. Marta",18,,,"Kontiolahti, Finland / Detroit, MI"
+"Hocking, Miss. Ellen ""Nellie""",20,4,,"Cornwall / Akron, OH"
+"Hocking, Mr. Richard George",23,,,"Cornwall / Akron, OH"
+"Hocking, Mr. Samuel James Metcalfe",36,,,"Devonport, England"
+"Hocking, Mrs. Elizabeth (Eliza Needs)",54,4,,"Cornwall / Akron, OH"
+"Hodges, Mr. Henry Price",50,,149,Southampton
+"Hold, Mr. Stephen",44,,,"England / Sacramento, CA"
+"Hold, Mrs. Stephen (Annie Margaret Hill)",29,10,,"England / Sacramento, CA"
+"Hood, Mr. Ambrose Jr",21,,,"New Forest, England"
+"Hosono, Mr. Masabumi",42,10,,"Tokyo, Japan"
+"Howard, Mr. Benjamin",63,,,"Swindon, England"
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",60,,,"Swindon, England"
+"Hunt, Mr. George Henry",33,,,"Philadelphia, PA"
+"Ilett, Miss. Bertha",17,,,Guernsey
+"Jacobsohn, Mr. Sidney Samuel",42,,,London
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24,12,,London
+"Jarvis, Mr. John Denzil",47,,,"North Evington, England"
+"Jefferys, Mr. Clifford Thomas",24,,,"Guernsey / Elizabeth, NJ"
+"Jefferys, Mr. Ernest Wilfred",22,,,"Guernsey / Elizabeth, NJ"
+"Jenkin, Mr. Stephen Curnow",32,,,"St Ives, Cornwall / Houghton, MI"
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23,11,,"New York, NY"
+"Kantor, Mr. Sinai",34,,283,"Moscow / Bronx, NY"
+"Kantor, Mrs. Sinai (Miriam Sternin)",24,12,,"Moscow / Bronx, NY"
+"Karnes, Mrs. J Frank (Claire Bennett)",22,,,"India / Pittsburgh, PA"
+"Keane, Miss. Nora A",,10,,"Harrisburg, PA"
+"Kelly, Mrs. Florence ""Fannie""",45,9,,"London / New York, NY"
+"Kirkland, Rev. Charles Leonard",57,,,"Glasgow / Bangor, ME"
+"Knight, Mr. Robert J",,,,Belfast
+"Kvillner, Mr. Johan Henrik Johannesson",31,,165,"Sweden / Arlington, NJ"
+"Lahtinen, Mrs. William (Anna Sylfven)",26,,,"Minneapolis, MN"
+"Lahtinen, Rev. William",30,,,"Minneapolis, MN"
+"Laroche, Miss. Louise",1,14,,Paris / Haiti
+"Laroche, Miss. Simonne Marie Anne Andree",3,14,,Paris / Haiti
+"Laroche, Mr. Joseph Philippe Lemercier",25,,,Paris / Haiti
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22,14,,Paris / Haiti
+"Lehmann, Miss. Bertha",17,12,,"Berne, Switzerland / Central City, IA"
+"Leitch, Miss. Jessie Wills",,11,,"London / Chicago, IL"
+"Lemore, Mrs. (Amelia Milley)",34,14,,"Chicago, IL"
+"Levy, Mr. Rene Jacques",36,,,"Montreal, PQ"
+"Leyson, Mr. Robert William Norman",24,,108,
+"Louch, Mr. Charles Alexander",50,,121,"Weston-Super-Mare, Somerset"
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42,,,"Weston-Super-Mare, Somerset"
+"Mack, Mrs. (Mary)",57,,52,"Southampton / New York, NY"
+"Malachard, Mr. Noel",,,,Paris
+"Mallet, Master. Andre",1,10,,"Paris / Montreal, PQ"
+"Mallet, Mr. Albert",31,,,"Paris / Montreal, PQ"
+"Mallet, Mrs. Albert (Antoinette Magnin)",24,10,,"Paris / Montreal, PQ"
+"Mangiavacchi, Mr. Serafino Emilio",,,,"New York, NY"
+"Matthews, Mr. William John",30,,,"St Austall, Cornwall"
+"Maybery, Mr. Frank Hubert",40,,,"Weston-Super-Mare / Moose Jaw, SK"
+"McCrae, Mr. Arthur Gordon",32,,209,"Sydney, Australia"
+"McCrie, Mr. James Matthew",30,,,"Sarnia, ON"
+"McKane, Mr. Peter David",46,,,"Rochester, NY"
+"Mellinger, Miss. Madeleine Violet",13,14,,"England / Bennington, VT"
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",41,14,,"England / Bennington, VT"
+"Mellors, Mr. William John",19,B,,"Chelsea, London"
+"Meyer, Mr. August",39,,,"Harrow-on-the-Hill, Middlesex"
+"Milling, Mr. Jacob Christian",48,,271,"Copenhagen, Denmark"
+"Mitchell, Mr. Henry Michael",70,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
+"Montvila, Rev. Juozas",27,,,"Worcester, MA"
+"Moraweck, Dr. Ernest",54,,,"Frankfort, KY"
+"Mudd, Mr. Thomas Charles",16,,,"Halesworth, England"
+"Myles, Mr. Thomas Francis",62,,,"Cambridge, MA"
+"Nasser, Mr. Nicholas",32.5,,43,"New York, NY"
+"Nasser, Mrs. Nicholas (Adele Achem)",14,,,"New York, NY"
+"Navratil, Master. Edmond Roger",2,D,,"Nice, France"
+"Navratil, Master. Michel M",3,D,,"Nice, France"
+"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,,15,"Nice, France"
+"Nesson, Mr. Israel",26,,,"Boston, MA"
+"Nicholls, Mr. Joseph Charles",19,,101,"Cornwall / Hancock, MI"
+"Norman, Mr. Robert Douglas",28,,287,Glasgow
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",20,7,,"Cologne, Germany"
+"Nye, Mrs. (Elizabeth Ramell)",29,11,,"Folkstone, Kent / New York, NY"
+"Otter, Mr. Richard",39,,,"Middleburg Heights, OH"
+"Oxenham, Mr. Percy Thomas",22,13,,"Pondersend, England / New Durham, NJ"
+"Padro y Manent, Mr. Julian",,9,,"Spain / Havana, Cuba"
+"Pain, Dr. Alfred",23,,,"Hamilton, ON"
+"Pallas y Castello, Mr. Emilio",29,9,,"Spain / Havana, Cuba"
+"Parker, Mr. Clifford Richard",28,,,"St Andrews, Guernsey"
+"Parkes, Mr. Francis ""Frank""",,,,Belfast
+"Parrish, Mrs. (Lutie Davis)",50,12,,"Woodford County, KY"
+"Pengelly, Mr. Frederick William",19,,,"Gunnislake, England / Butte, MT"
+"Phillips, Miss. Alice Frances Louisa",21,12,,"Ilfracombe, Devon"
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19,11,,"Worcester, England"
+"Phillips, Mr. Escott Robert",43,,,"Ilfracombe, Devon"
+"Pinsky, Mrs. (Rosa)",32,9,,Russia
+"Ponesell, Mr. Martin",34,,,"Denmark / New York, NY"
+"Portaluppi, Mr. Emilio Ilario Giuseppe",30,14,,"Milford, NH"
+"Pulbaum, Mr. Franz",27,,,Paris
+"Quick, Miss. Phyllis May",2,11,,"Plymouth, Devon / Detroit, MI"
+"Quick, Miss. Winifred Vera",8,11,,"Plymouth, Devon / Detroit, MI"
+"Quick, Mrs. Frederick Charles (Jane Richards)",33,11,,"Plymouth, Devon / Detroit, MI"
+"Reeves, Mr. David",36,,,"Brighton, Sussex"
+"Renouf, Mr. Peter Henry",34,12,,"Elizabeth, NJ"
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30,,,"Elizabeth, NJ"
+"Reynaldo, Ms. Encarnacion",28,9,,Spain
+"Richard, Mr. Emile",23,,,"Paris / Montreal, PQ"
+"Richards, Master. George Sibley",0.8333,4,,"Cornwall / Akron, OH"
+"Richards, Master. William Rowe",3,4,,"Cornwall / Akron, OH"
+"Richards, Mrs. Sidney (Emily Hocking)",24,4,,"Cornwall / Akron, OH"
+"Ridsdale, Miss. Lucy",50,13,,"London, England / Marietta, Ohio and Milwaukee, WI"
+"Rugg, Miss. Emily",21,12,,"Guernsey / Wilmington, DE"
+"Schmidt, Mr. August",26,,,"Newark, NJ"
+"Sedgwick, Mr. Charles Frederick Waddington",25,,,Liverpool
+"Sharp, Mr. Percival James R",27,,,"Hornsey, England"
+"Shelley, Mrs. William (Imanita Parrish Hall)",25,12,,"Deer Lodge, MT"
+"Silven, Miss. Lyyli Karoliina",18,16,,"Finland / Minneapolis, MN"
+"Sincock, Miss. Maude",20,11,,"Cornwall / Hancock, MI"
+"Sinkkonen, Miss. Anna",30,10,,"Finland / Washington, DC"
+"Sjostedt, Mr. Ernst Adolf",59,,,"Sault St Marie, ON"
+"Slayter, Miss. Hilda Mary",30,13,,"Halifax, NS"
+"Slemen, Mr. Richard James",35,,,Cornwall
+"Smith, Miss. Marion Elsie",40,9,,
+"Sobey, Mr. Samuel James Hayden",25,,,"Cornwall / Houghton, MI"
+"Stanton, Mr. Samuel Ward",41,,,"New York, NY"
+"Stokes, Mr. Philip Joseph",25,,81,"Catford, Kent / Detroit, MI"
+"Swane, Mr. George",18.5,,294,
+"Sweet, Mr. George Frederick",14,,,"Somerset / Bernardsville, NJ"
+"Toomey, Miss. Ellen",50,9,,"Indianapolis, IN"
+"Trout, Mrs. William H (Jessie L)",28,,,"Columbus, OH"
+"Troutt, Miss. Edwina Celia ""Winnie""",27,16,,"Bath, England / Massachusetts"
+"Turpin, Mr. William John Robert",29,,,"Plymouth, England"
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27,,,"Plymouth, England"
+"Veal, Mr. James",40,,,"Barre, Co Washington, VT"
+"Walcroft, Miss. Nellie",31,14,,"Mamaroneck, NY"
+"Ware, Mr. John James",30,,,"Bristol, England / New Britain, CT"
+"Ware, Mrs. John James (Florence Louise Long)",31,10,,"Bristol, England / New Britain, CT"
+"Watson, Mr. Ennis Hastings",,,,Belfast
+"Watt, Miss. Bertha J",12,9,,"Aberdeen / Portland, OR"
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40,9,,"Aberdeen / Portland, OR"
+"Webber, Miss. Susan",32.5,12,,"England / Hartford, CT"
+"Weisz, Mr. Leopold",27,,293,"Bromsgrove, England / Montreal, PQ"
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29,10,,"Bromsgrove, England / Montreal, PQ"
+"Wells, Master. Ralph Lester",2,14,,"Cornwall / Akron, OH"
+"Wells, Miss. Joan",4,14,,"Cornwall / Akron, OH"
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",29,14,,"Cornwall / Akron, OH"
+"West, Miss. Barbara J",0.9167,10,,"Bournmouth, England"
+"West, Miss. Constance Mirium",5,10,,"Bournmouth, England"
+"West, Mr. Edwy Arthur",36,,,"Bournmouth, England"
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",33,10,,"Bournmouth, England"
+"Wheadon, Mr. Edward H",66,,,"Guernsey, England / Edgewood, RI"
+"Wilhelms, Mr. Charles",31,9,,"London, England"
+"Williams, Mr. Charles Eugene",,14,,"Harrow, England"
+"Wright, Miss. Marion",26,9,,"Yoevil, England / Cottage Grove, OR"
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",24,,,Paris
+"Abbott, Master. Eugene Joseph",13,,,"East Providence, RI"
+"Abbott, Mr. Rossmore Edward",16,,190,"East Providence, RI"
+"Abbott, Mrs. Stanton (Rosa Hunt)",35,A,,"East Providence, RI"
+"Abelseth, Miss. Karen Marie",16,16,,"Norway Los Angeles, CA"
+"Abelseth, Mr. Olaus Jorgensen",25,A,,"Perkins County, SD"
+"Abrahamsson, Mr. Abraham August Johannes",20,15,,"Taalintehdas, Finland Hoboken, NJ"
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",18,C,,"Greensburg, PA"
+"Adahl, Mr. Mauritz Nils Martin",30,,72,"Asarum, Sweden Brooklyn, NY"
+"Adams, Mr. John",26,,103,"Bournemouth, England"
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40,,,"Sweden Akeley, MN"
+"Aks, Master. Philip Frank",0.8333,11,,"London, England Norfolk, VA"
+"Aks, Mrs. Sam (Leah Rosen)",18,13,,"London, England Norfolk, VA"
+"Albimona, Mr. Nassef Cassem",26,15,,"Syria Fredericksburg, VA"
+"Alexander, Mr. William",26,,,"England Albion, NY"
+"Alhomaki, Mr. Ilmari Rudolf",20,,,"Salo, Finland Astoria, OR"
+"Ali, Mr. William",25,,79,Argentina
+"Allen, Mr. William Henry",35,,,"Lower Clapton, Middlesex or Erdington, Birmingham"
+"Allum, Mr. Owen George",18,,259,"Windsor, England New York, NY"
+"Andersen, Mr. Albert Karvin",32,,260,"Bergen, Norway"
+"Andersen-Jensen, Miss. Carla Christine Nielsine",19,16,,
+"Andersson, Master. Sigvard Harald Elias",4,,,"Sweden Winnipeg, MN"
+"Andersson, Miss. Ebba Iris Alfrida",6,,,"Sweden Winnipeg, MN"
+"Andersson, Miss. Ellis Anna Maria",2,,,"Sweden Winnipeg, MN"
+"Andersson, Miss. Erna Alexandra",17,D,,"Ruotsinphyhtaa, Finland New York, NY"
+"Andersson, Miss. Ida Augusta Margareta",38,,,"Vadsbro, Sweden Ministee, MI"
+"Andersson, Miss. Ingeborg Constanzia",9,,,"Sweden Winnipeg, MN"
+"Andersson, Miss. Sigrid Elisabeth",11,,,"Sweden Winnipeg, MN"
+"Andersson, Mr. Anders Johan",39,,,"Sweden Winnipeg, MN"
+"Andersson, Mr. August Edvard (""Wennerstrom"")",27,A,,
+"Andersson, Mr. Johan Samuel",26,,,"Hartford, CT"
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39,,,"Sweden Winnipeg, MN"
+"Andreasson, Mr. Paul Edvin",20,,,"Sweden Chicago, IL"
+"Angheloff, Mr. Minko",26,,,"Bulgaria Chicago, IL"
+"Arnold-Franchi, Mr. Josef",25,,,"Altdorf, Switzerland"
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18,,,"Altdorf, Switzerland"
+"Aronsson, Mr. Ernst Axel Algot",24,,,"Sweden Joliet, IL"
+"Asplund, Master. Carl Edgar",5,,,"Sweden  Worcester, MA"
+"Asplund, Master. Clarence Gustaf Hugo",9,,,"Sweden Worcester, MA"
+"Asplund, Master. Edvin Rojj Felix",3,15,,"Sweden Worcester, MA"
+"Asplund, Master. Filip Oscar",13,,,"Sweden Worcester, MA"
+"Asplund, Miss. Lillian Gertrud",5,15,,"Sweden Worcester, MA"
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40,,142,"Sweden  Worcester, MA"
+"Asplund, Mr. Johan Charles",23,13,,"Oskarshamn, Sweden Minneapolis, MN"
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38,15,,"Sweden  Worcester, MA"
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",45,C,,"Ottawa, ON"
+"Assaf, Mr. Gerios",21,,,"Ottawa, ON"
+"Attalah, Mr. Sleiman",30,,,"Ottawa, ON"
+"Augustsson, Mr. Albert",23,,,"Krakoryd, Sweden Bloomington, IL"
+"Ayoub, Miss. Banoura",13,C,,"Syria Youngstown, OH"
+"Backstrom, Mr. Karl Alfred",32,D,,"Ruotsinphytaa, Finland New York, NY"
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33,,,"Ruotsinphytaa, Finland New York, NY"
+"Baclini, Miss. Eugenie",0.75,C,,"Syria New York, NY"
+"Baclini, Miss. Helene Barbara",0.75,C,,"Syria New York, NY"
+"Baclini, Miss. Marie Catherine",5,C,,"Syria New York, NY"
+"Baclini, Mrs. Solomon (Latifa Qurban)",24,C,,"Syria New York, NY"
+"Badman, Miss. Emily Louisa",18,C,,"London Skanteales, NY"
+"Barah, Mr. Hanna Assi",20,15,,
+"Barbara, Miss. Saiide",18,,,"Syria Ottawa, ON"
+"Barbara, Mrs. (Catherine David)",45,,,"Syria Ottawa, ON"
+"Barry, Miss. Julia",27,,,"New York, NY"
+"Barton, Mr. David John",22,,,"England New York, NY"
+"Beavan, Mr. William Thomas",19,,,England
+"Bengtsson, Mr. John Viktor",26,,,"Krakudden, Sweden Moune, IL"
+"Berglund, Mr. Karl Ivar Sven",22,,,"Tranvik, Finland New York"
+"Betros, Mr. Tannous",20,,,Syria
+"Bing, Mr. Lee",32,C,,"Hong Kong New York, NY"
+"Birkeland, Mr. Hans Martin Monsen",21,,,"Brennes, Norway New York"
+"Bjorklund, Mr. Ernst Herbert",18,,,"Stockholm, Sweden New York"
+"Bostandyeff, Mr. Guentcho",26,,,"Bulgaria Chicago, IL"
+"Boulos, Master. Akar",6,,,"Syria Kent, ON"
+"Boulos, Miss. Nourelain",9,,,"Syria Kent, ON"
+"Boulos, Mr. Hanna",,,,Syria
+"Boulos, Mrs. Joseph (Sultana)",,,,"Syria Kent, ON"
+"Bourke, Miss. Mary",,,,"Ireland Chicago, IL"
+"Bourke, Mr. John",40,,,"Ireland Chicago, IL"
+"Bourke, Mrs. John (Catherine)",32,,,"Ireland Chicago, IL"
+"Bowen, Mr. David John ""Dai""",21,,,"Treherbert, Cardiff, Wales"
+"Bradley, Miss. Bridget Delia",22,13,,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
+"Braf, Miss. Elin Ester Maria",20,,,"Medeltorp, Sweden Chicago, IL"
+"Braund, Mr. Lewis Richard",29,,,"Bridgerule, Devon"
+"Braund, Mr. Owen Harris",22,,,"Bridgerule, Devon"
+"Brobeck, Mr. Karl Rudolf",22,,,"Sweden Worcester, MA"
+"Brocklebank, Mr. William Alfred",35,,,"Broomfield, Chelmsford, England"
+"Buckley, Miss. Katherine",18.5,,299,"Co Cork, Ireland Roxbury, MA"
+"Buckley, Mr. Daniel",21,13,,"Kingwilliamstown, Co Cork, Ireland New York, NY"
+"Burke, Mr. Jeremiah",19,,,"Co Cork, Ireland Charlestown, MA"
+"Burns, Miss. Mary Delia",18,,,"Co Sligo, Ireland New York, NY"
+"Cacic, Mr. Luka",38,,,Croatia
+"Canavan, Mr. Patrick",21,,,"Ireland Philadelphia, PA"
+"Caram, Mr. Joseph",,,,"Ottawa, ON"
+"Caram, Mrs. Joseph (Maria Elias)",,,,"Ottawa, ON"
+"Carlsson, Mr. August Sigfrid",28,,,"Dagsas, Sweden Fower, MN"
+"Carlsson, Mr. Carl Robert",24,,,"Goteborg, Sweden Huntley, IL"
+"Carr, Miss. Helen ""Ellen""",16,16,,"Co Longford, Ireland New York, NY"
+"Carr, Miss. Jeannie",37,,,"Co Sligo, Ireland Hartford, CT"
+"Carver, Mr. Alfred John",28,,,"St Denys, Southampton, Hants"
+"Celotti, Mr. Francesco",24,,,London
+"Charters, Mr. David",21,,,"Ireland New York, NY"
+"Chip, Mr. Chang",32,C,,"Hong Kong New York, NY"
+"Chronopoulos, Mr. Apostolos",26,,,Greece
+"Chronopoulos, Mr. Demetrios",18,,,Greece
+"Coelho, Mr. Domingos Fernandeo",20,,,Portugal
+"Cohen, Mr. Gurshon ""Gus""",18,12,,"London Brooklyn, NY"
+"Colbert, Mr. Patrick",24,,,"Co Limerick, Ireland Sherbrooke, PQ"
+"Coleff, Mr. Peju",36,,,"Bulgaria Chicago, IL"
+"Conlon, Mr. Thomas Henry",31,,,"Philadelphia, PA"
+"Connaghton, Mr. Michael",31,,,"Ireland Brooklyn, NY"
+"Connolly, Miss. Kate",22,13,,Ireland
+"Connolly, Miss. Kate",30,,,Ireland
+"Connors, Mr. Patrick",70.5,,171,
+"Cor, Mr. Bartol",35,,,Austria
+"Cor, Mr. Ivan",27,,,Austria
+"Cor, Mr. Liudevit",19,,,Austria
+"Corn, Mr. Harry",30,,,London
+"Coutts, Master. Eden Leslie ""Neville""",9,2,,"England Brooklyn, NY"
+"Coutts, Master. William Loch ""William""",3,2,,"England Brooklyn, NY"
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",36,2,,"England Brooklyn, NY"
+"Coxon, Mr. Daniel",59,,,"Merrill, WI"
+"Crease, Mr. Ernest James",19,,,"Bristol, England Cleveland, OH"
+"Cribb, Miss. Laura Alice",17,12,,"Bournemouth, England Newark, NJ"
+"Cribb, Mr. John Hatfield",44,,,"Bournemouth, England Newark, NJ"
+"Culumovic, Mr. Jeso",17,,,Austria-Hungary
+"Daher, Mr. Shedid",22.5,,9,
+"Dahl, Mr. Karl Edwart",45,15,,"Australia Fingal, ND"
+"Dahlberg, Miss. Gerda Ulrika",22,,,"Norrlot, Sweden Chicago, IL"
+"Dakic, Mr. Branko",19,,,Austria
+"Daly, Miss. Margaret Marcella ""Maggie""",30,15,,"Co Athlone, Ireland New York, NY"
+"Daly, Mr. Eugene Patrick",29,13 15 B,,"Co Athlone, Ireland New York, NY"
+"Danbom, Master. Gilbert Sigvard Emanuel",0.3333,,,"Stanton, IA"
+"Danbom, Mr. Ernst Gilbert",34,,197,"Stanton, IA"
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28,,,"Stanton, IA"
+"Danoff, Mr. Yoto",27,,,"Bulgaria Chicago, IL"
+"Dantcheff, Mr. Ristiu",25,,,"Bulgaria Chicago, IL"
+"Davies, Mr. Alfred J",24,,,"West Bromwich, England Pontiac, MI"
+"Davies, Mr. John Samuel",21,,,"West Bromwich, England Pontiac, MI"
+"Davies, Mr. Joseph",17,,,"West Bromwich, England Pontiac, MI"
+"Davison, Mr. Thomas Henry",,,,"Liverpool, England Bedford, OH"
+"Davison, Mrs. Thomas Henry (Mary E Finck)",,16,,"Liverpool, England Bedford, OH"
+"de Messemaeker, Mr. Guillaume Joseph",36.5,15,,"Tampico, MT"
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36,13,,"Tampico, MT"
+"de Mulder, Mr. Theodore",30,11,,"Belgium Detroit, MI"
+"Dean, Master. Bertram Vere",1,10,,"Devon, England Wichita, KS"
+"Dean, Miss. Elizabeth Gladys ""Millvina""",0.1667,10,,"Devon, England Wichita, KS"
+"Dean, Mr. Bertram Frank",26,,,"Devon, England Wichita, KS"
+"Dean, Mrs. Bertram (Eva Georgetta Light)",33,10,,"Devon, England Wichita, KS"
+"Denkoff, Mr. Mitto",,,,"Bulgaria Coon Rapids, IA"
+"Devaney, Miss. Margaret Delia",19,C,,"Kilmacowen, Co Sligo, Ireland New York, NY"
+"Dooley, Mr. Patrick",32,,,"Ireland New York, NY"
+"Dorking, Mr. Edward Arthur",19,B,,"England Oglesby, IL"
+"Dowdell, Miss. Elizabeth",30,13,,"Union Hill, NJ"
+"Doyle, Miss. Elizabeth",24,,,"Ireland New York, NY"
+"Drapkin, Miss. Jennie",23,,,"London New York, NY"
+"Drazenoic, Mr. Jozef",33,,51,"Austria Niagara Falls, NY"
+"Duquemin, Mr. Joseph",24,D,,"England Albion, NY"
+"Dyker, Mr. Adolf Fredrik",23,,,"West Haven, CT"
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",22,16,,"West Haven, CT"
+"Edvardsson, Mr. Gustaf Hjalmar",18,,,"Tofta, Sweden Joliet, IL"
+"Eklund, Mr. Hans Linus",16,,,"Karberg, Sweden Jerome Junction, AZ"
+"Ekstrom, Mr. Johan",45,,,"Effington Rut, SD"
+"Elias, Mr. Joseph",39,,,"Syria Ottawa, ON"
+"Elias, Mr. Tannous",15,,,Syria
+"Elsbury, Mr. William James",47,,,"Illinois, USA"
+"Emanuel, Miss. Virginia Ethel",5,13,,"New York, NY"
+"Everett, Mr. Thomas James",40.5,,187,
+"Farrell, Mr. James",40.5,,68,"Aughnacliff, Co Longford, Ireland New York, NY"
+"Finoli, Mr. Luigi",,15,,"Italy Philadelphia, PA"
+"Foley, Mr. Joseph",26,,,"Ireland Chicago, IL"
+"Foley, Mr. William",,,,Ireland
+"Foo, Mr. Choong",,13,,"Hong Kong New York, NY"
+"Ford, Miss. Doolina Margaret ""Daisy""",21,,,"Rotherfield, Sussex, England Essex Co, MA"
+"Ford, Miss. Robina Maggie ""Ruby""",9,,,"Rotherfield, Sussex, England Essex Co, MA"
+"Ford, Mr. Arthur",,,,"Bridgwater, Somerset, England"
+"Ford, Mr. Edward Watson",18,,,"Rotherfield, Sussex, England Essex Co, MA"
+"Ford, Mr. William Neal",16,,,"Rotherfield, Sussex, England Essex Co, MA"
+"Ford, Mrs. Edward (Margaret Ann Watson)",48,,,"Rotherfield, Sussex, England Essex Co, MA"
+"Fox, Mr. Patrick",,,,"Ireland New York, NY"
+"Gallagher, Mr. Martin",25,,,"New York, NY"
+"Gilinski, Mr. Eliezer",22,,47,
+"Gilnagh, Miss. Katherine ""Katie""",16,16,,"Co Longford, Ireland New York, NY"
+"Glynn, Miss. Mary Agatha",,13,,"Co Clare, Ireland Washington, DC"
+"Goldsmith, Master. Frank John William ""Frankie""",9,C D,,"Strood, Kent, England Detroit, MI"
+"Goldsmith, Mr. Frank John",33,,,"Strood, Kent, England Detroit, MI"
+"Goldsmith, Mr. Nathan",41,,,"Philadelphia, PA"
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31,C D,,"Strood, Kent, England Detroit, MI"
+"Goncalves, Mr. Manuel Estanslas",38,,,Portugal
+"Goodwin, Master. Harold Victor",9,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Master. Sidney Leonard",1,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Master. William Frederick",11,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Miss. Jessie Allis",10,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Miss. Lillian Amy",16,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Mr. Charles Edward",14,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Mr. Charles Frederick",40,,,"Wiltshire, England Niagara Falls, NY"
+"Goodwin, Mrs. Frederick (Augusta Tyler)",43,,,"Wiltshire, England Niagara Falls, NY"
+"Green, Mr. George Henry",51,,,"Dorking, Surrey, England"
+"Gronnestad, Mr. Daniel Danielsen",32,,,"Foresvik, Norway Portland, ND"
+"Gustafsson, Mr. Alfred Ossian",20,,,"Waukegan, Chicago, IL"
+"Gustafsson, Mr. Anders Vilhelm",37,,98,"Ruotsinphytaa, Finland New York, NY"
+"Gustafsson, Mr. Johan Birger",28,,,"Ruotsinphytaa, Finland New York, NY"
+"Gustafsson, Mr. Karl Gideon",19,,,"Myren, Sweden New York, NY"
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24,15,,
+"Hanna, Mr. Mansour",23.5,,188,
+"Hansen, Mr. Henry Damsgaard",21,,69,
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",45,11,,
+"Harmer, Mr. Abraham (David Lishin)",25,B,,
+"Healy, Miss. Hanora ""Nora""",,16,,
+"Hedman, Mr. Oskar Arvid",27,15,,
+"Hee, Mr. Ling",,C,,
+"Hellstrom, Miss. Hilda Maria",22,C,,
+"Hendekovic, Mr. Ignjac",28,,306,
+"Hirvonen, Miss. Hildur E",2,15,,
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",22,15,,
+"Howard, Miss. May Elizabeth",,C,,
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,,120,
+"Hyman, Mr. Abraham",,C,,
+"Jalsevac, Mr. Ivan",29,15,,
+"Jansson, Mr. Carl Olof",21,A,,
+"Jermyn, Miss. Annie",,D,,
+"Johannesen-Bratthammer, Mr. Bernt",,13,,
+"Johanson, Mr. Jakob Alfred",34,,143,
+"Johansson Palmquist, Mr. Oskar Leander",26,15,,
+"Johansson, Mr. Erik",22,,156,
+"Johansson, Mr. Gustaf Joel",33,,285,
+"Johnson, Master. Harold Theodor",4,15,,
+"Johnson, Miss. Eleanor Ileen",1,15,,
+"Johnson, Mr. Malkolm Joackim",33,,37,
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27,15,,
+"Jonsson, Mr. Carl",32,15,,
+"Jussila, Mr. Eiriik",32,15,,
+"Karlsson, Mr. Einar Gervasius",21,13,,
+"Karun, Miss. Manca",4,15,,
+"Karun, Mr. Franz",39,15,,
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",18.5,,58,
+"Keefe, Mr. Arthur",,A,,
+"Kelly, Miss. Anna Katherine ""Annie Kate""",,16,,
+"Kelly, Miss. Mary",,D,,
+"Kelly, Mr. James",34.5,,70,
+"Kink-Heilmann, Miss. Luise Gretchen",4,2,,
+"Kink-Heilmann, Mr. Anton",29,2,,
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",26,2,,
+"Krekorian, Mr. Neshan",25,10,,
+"Lam, Mr. Ali",,C,,
+"Landergren, Miss. Aurora Adelia",22,13,,
+"Lang, Mr. Fang",26,14,,
+"Leeni, Mr. Fahim (""Philip Zenni"")",22,6,,
+"Lemberopolous, Mr. Peter L",34.5,,196,
+"Lindell, Mr. Edvard Bengtsson",36,A,,
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",30,A,,
+"Lindqvist, Mr. Eino William",20,15,,
+"Lockyer, Mr. Edward",,,153,
+"Lulic, Mr. Nikola",27,15,,
+"Lundin, Miss. Olga Elida",23,10,,
+"Lundstrom, Mr. Thure Edvin",32,15,,
+"Madigan, Miss. Margaret ""Maggie""",,15,,
+"Madsen, Mr. Fridtjof Arne",24,13,,
+"Mamee, Mr. Hanna",,15,,
+"Mangan, Miss. Mary",30.5,,61,
+"Mannion, Miss. Margareth",,16,,
+"Masselmani, Mrs. Fatima",,C,,
+"McCarthy, Miss. Catherine ""Katie""",,15 16,,
+"McCoy, Miss. Agnes",,16,,
+"McCoy, Miss. Alicia",,16,,
+"McCoy, Mr. Bernard",,16,,
+"McDermott, Miss. Brigdet Delia",,13,,
+"McGovern, Miss. Mary",,13,,
+"McNamee, Mrs. Neal (Eileen O'Leary)",19,,53,
+"Meo, Mr. Alfonzo",55.5,,201,
+"Midtsjo, Mr. Karl Albert",21,15,,
+"Mockler, Miss. Helen Mary ""Ellie""",,16,,
+"Moen, Mr. Sigurd Hansen",25,,309,
+"Moor, Master. Meier",6,14,,
+"Moor, Mrs. (Beila)",27,14,,
+"Moran, Miss. Bertha",,16,,
+"Moss, Mr. Albert Johan",,B,,
+"Moubarek, Master. Gerios",,C,,
+"Moubarek, Master. Halim Gonios (""William George"")",,C,,
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",,C,,
+"Mullens, Miss. Katherine ""Katie""",,16,,
+"Mulvihill, Miss. Bertha E",24,15,,
+"Murphy, Miss. Katherine ""Kate""",,16,,
+"Murphy, Miss. Margaret Jane",,16,,
+"Murphy, Miss. Nora",,16,,
+"Najib, Miss. Adele Kiamie ""Jane""",15,C,,
+"Nakid, Miss. Maria (""Mary"")",1,C,,
+"Nakid, Mr. Sahid",20,C,,
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",19,C,,
+"Nicola-Yarred, Master. Elias",12,C,,
+"Nicola-Yarred, Miss. Jamila",14,C,,
+"Nilsson, Miss. Berta Olivia",18,D,,
+"Nilsson, Miss. Helmina Josefina",26,13,,
+"Nirva, Mr. Iisakki Antino Aijo",41,,,"Finland Sudbury, ON"
+"Niskanen, Mr. Juha",39,9,,
+"Novel, Mr. Mansouer",28.5,,181,
+"Nysten, Miss. Anna Sofia",22,13,,
+"O'Driscoll, Miss. Bridget",,D,,
+"Ohman, Miss. Velin",22,C,,
+"O'Keefe, Mr. Patrick",,B,,
+"O'Leary, Miss. Hanora ""Norah""",,13,,
+"Olsen, Master. Artur Karl",9,13,,
+"Olsen, Mr. Henry Margido",28,,173,
+"Olsson, Mr. Oscar Wilhelm",32,A,,
+"Olsvigen, Mr. Thor Anderson",20,,89,"Oslo, Norway Cameron, WI"
+"Palsson, Master. Gosta Leonard",2,,4,
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29,,206,
+"Persson, Mr. Ernst Ulrik",25,15,,
+"Peter, Master. Michael J",,C,,
+"Peter, Miss. Anna",,D,,
+"Peter, Mrs. Catherine (Catherine Rizk)",,D,,
+"Pickard, Mr. Berk (Berk Trembisky)",32,9,,
+"Rice, Mrs. William (Margaret Norton)",39,,327,
+"Riordan, Miss. Johanna ""Hannah""",,13,,
+"Robins, Mr. Alexander A",50,,119,
+"Robins, Mrs. Alexander A (Grace Charity Laury)",47,,7,
+"Roth, Miss. Sarah A",,C,,
+"Ryan, Mr. Edward",,14,,
+"Saether, Mr. Simon Sivertsen",38.5,,32,
+"Sage, Master. William Henry",14.5,,67,
+"Salkjelsvik, Miss. Anna Kristine",21,C,,
+"Sandstrom, Miss. Beatrice Irene",1,13,,
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24,13,,
+"Sandstrom, Miss. Marguerite Rut",4,13,,
+"Sap, Mr. Julius",25,11,,
+"Sawyer, Mr. Frederick Charles",24.5,,284,
+"Sheerlinck, Mr. Jan Baptist",29,11,,
+"Sjoblom, Miss. Anna Sofia",18,16,,
+"Smyth, Miss. Julia",,13,,
+"Stanley, Miss. Amy Zillah Elsie",23,C,,
+"Storey, Mr. Thomas",60.5,,261,
+"Stranden, Mr. Juho",31,9,,
+"Sunderland, Mr. Victor Francis",16,B,,
+"Sundman, Mr. Johan Julian",44,15,,
+"Svensson, Mr. Johan Cervin",14,13,,
+"Tenglin, Mr. Gunnar Isidor",25,13 15,,
+"Theobald, Mr. Thomas Leonard",34,,176,
+"Thomas, Master. Assad Alexander",0.4167,16,,
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",16,14,,
+"Thorneycroft, Mrs. Percival (Florence Kate White)",,10,,
+"Tomlin, Mr. Ernest Portage",30.5,,50,
+"Tornquist, Mr. William Henry",25,15,,
+"Touma, Master. Georges Youssef",7,C,,
+"Touma, Miss. Maria Youssef",9,C,,
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",29,C,,
+"Turja, Miss. Anna Sofia",18,15,,
+"Turkula, Mrs. (Hedwig)",63,15,,
+"van Billiard, Master. Walter John",11.5,,1,
+"van Billiard, Mr. Austin Blyler",40.5,,255,
+"Vartanian, Mr. David",22,13 15,,
+"Waelens, Mr. Achille",22,,,"Antwerp, Belgium / Stanton, OH"
+"Wenzel, Mr. Linhart",32.5,,298,
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",38,C,,
+"Wiklund, Mr. Jakob Alfred",18,,314,
+"Williams, Mr. Leslie",28.5,,14,
+"Wirz, Mr. Albert",27,,131,
+"Yasbeck, Mr. Antoni",27,C,,
+"Youseff, Mr. Gerious",45.5,,312,
+"Zabour, Miss. Hileni",14.5,,328,
+"Zakarian, Mr. Mapriededer",26.5,,304,

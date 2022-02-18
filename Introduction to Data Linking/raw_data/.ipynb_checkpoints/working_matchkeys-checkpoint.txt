@@ -1,0 +1,13 @@
+Include multiple matches = False
+
+firstname, surname, dob, sex, postcode
+first1, middle1, sur1, dob, sex, postcode
+first1, middle1, sur1, monthbirth, yearbirth, sex, postcode
+first1, middle1, sur1, daybirth, yearbirth, sex, postcode
+first1, middle1, sur1, monthbirth, daybirth, sex, postcode
+first1, sur1, dob, sex, postcode
+firstname, surname, dob, sex, pcarea
+first1, sur1, dob, sex, pcarea
+firstname, surname, dob, postcode
+shortfirst1, shortsur1, dob, sex, pcarea
+initials, dob, sex, pcarea

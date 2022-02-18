@@ -1,0 +1,8 @@
+body {  
+    background: black; /* Set the page background to black */
+    color: white; /* Set the page font colour to white */
+}
+
+.red_text{
+    color: red;
+}
