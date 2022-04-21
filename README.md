@@ -1,4 +1,4 @@
-# NISR Data Science Seminars 
+# Data Science Seminars 
 
 This repository contains all the Data Science presentations that have been created by me. 
 
